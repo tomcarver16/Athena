@@ -27,5 +27,7 @@ donut.exe C:\Path\to\VB\file.vbs -f 4
 Then copy the code from loader.c into the buf array and you're set.
 
 ## Screenshots
+### Output
 ![alt text](https://github.com/tomcarver16/Athena/blob/master/Images/Athena-Usage.png "Athena Usage")
+### Shellcode Result
 ![alt text](https://github.com/tomcarver16/Athena/blob/master/Images/shellcode.png "Shellcode Output")
