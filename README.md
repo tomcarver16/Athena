@@ -15,7 +15,7 @@ Athena.exe notepad.exe
 The shellcode used in Athena by default is from a project called [donut](https://github.com/TheWover/donut) created with the following settings.
 
 ### VBScript
-```vbs
+```vbscript
 MsgBox "Hello From Shellcode!", VBOKOnly
 ```
 
